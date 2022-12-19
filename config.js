@@ -1,17 +1,17 @@
 global.you = ['12136852040'] 
 //Developer Bot
-global.gc = 'https://chat.whatsapp.com/F8JCtpCaSRFLmFf70TvF3R'
-global.rowner = ['12136852040'] // Real Owner Bot
-global.owner = ['12136852040'] // Owner Bot
-global.police = ['12136852040'] // Police Bot
-global.mods = ['12136852040']  // Want some help?
-global.prems = ['12136852040'] // Premium user has unlimited limit
+global.gc = 'https://chat.whatsapp.com/KOSONG'
+global.rowner = ['6282284525088'] // Real Owner Bot
+global.owner = ['6282284525088'] // Owner Bot
+global.police = ['6282284525088'] // Police Bot
+global.mods = ['6282284525088']  // Want some help?
+global.prems = ['6282284525088'] // Premium user has unlimited limit
 
 //menu wm
-global.wm = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.wm3 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.wm2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.wm1 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.wm = 'FinnBotz-MD'
+global.wm3 = 'FinnBotz-MD'
+global.wm2 = 'FinnBotz-MD'
+global.wm1 = 'FinnBotz-MD'
 global.fotonya1 = 'https://telegra.ph/file/b6d6bbf2cd149982922c0.jpg' //ini kalo mau di ganti silahkan ganti aja
 global.fotonya2 = 'https://telegra.ph/file/b6d6bbf2cd149982922c0.jpg' //gw lupa nih foto apa aja:v
 global.fotonya3 = 'https://telegra.ph/file/b6d6bbf2cd149982922c0.jpg' //ini juga ganti
@@ -21,7 +21,7 @@ global.fotonya6 = 'https://telegra.ph/file/b6d6bbf2cd149982922c0.jpg' //ini gant
 global.fotonya7 = 'https://telegra.ph/file/b6d6bbf2cd149982922c0.jpg'
 global.instagram = 'https://instagram.com/kabulsaputra21'
 
-global.helper = ['12136852040']
+global.helper = ['6282284525088']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -89,9 +89,9 @@ global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 // Sticker WM
-global.packname = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.author = '©𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.wm = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 | ©𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.packname = 'FinnBotz-MD'
+global.author = 'FinnBotz-MD'
+global.wm = 'FinnBotz-MD| FinnBotz-MD'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
